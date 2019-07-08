@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Player component 1`] = `
+<div>
+  1 : 10S, JS, QS, KS, AS
+  <button>Delete</button></div>
+`;
